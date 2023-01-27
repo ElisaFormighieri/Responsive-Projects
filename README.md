@@ -10,8 +10,8 @@
 
 ## Glasses Responsive Layout 
 
-![image](https://user-images.githubusercontent.com/69126878/215182444-1bd87b31-73fc-4157-8894-009c765a0a03.png)
+![image](https://user-images.githubusercontent.com/69126878/215182881-1e46f05b-44a3-437c-a5d5-7f6d2a72655d.png)
 
 ## Click here to acess the app 
 
-> file:///C:/Users/elisa/OneDrive/Documents/C%C3%B3digos/Responsive%20Layouts/Web-Glasses/index.html 
+> https://cicc-exercise.vercel.app/
